@@ -1,0 +1,3 @@
+[submodule "kicad-parts"]
+	path = kicad-parts
+	url = git@github.com:tonarino/kicad-parts.git

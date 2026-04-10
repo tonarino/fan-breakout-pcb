@@ -1,0 +1,14 @@
+# Temporary files
+*-backups
+~*.lck
+_autosave*
+fp-info-cache
+\#auto_saved_files\#
+# Local project settings
+*.kicad_prl
+
+# Fabrication toolkit plugin directory of exports
+production
+
+# MacOS
+.DS_Store

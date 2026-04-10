@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "molex_470531000")(type "KiCad")(uri "${KIPRJMOD}/kicad-parts/symbols/molex_470531000.kicad_sym")(options "")(descr ""))
+  (lib (name "same_sky_tbl009-254-05gy-2gy")(type "KiCad")(uri "${KIPRJMOD}/kicad-parts/symbols/Same_Sky_TBL009-254-05GY-2GY.kicad_sym")(options "")(descr ""))
+)
