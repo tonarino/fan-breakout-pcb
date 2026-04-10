@@ -1548,7 +1548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TBL009-254-05GY-2GY:CUI_TBL009-254-05GY-2GY"
+		(property "Footprint" "footprints:Same_Sky_TBL009-254-05GY-2GY"
 			(at 116.84 105.41 0)
 			(effects
 				(font
@@ -1794,7 +1794,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_SD-47053-001_H10p00_MOL"
+		(property "Footprint" "footprints:molex_molex_470531000"
 			(at 156.21 101.6 0)
 			(effects
 				(font
@@ -2004,7 +2004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_SD-47053-001_H10p00_MOL"
+		(property "Footprint" "footprints:molex_molex_470531000"
 			(at 156.21 82.55 0)
 			(effects
 				(font
@@ -2083,7 +2083,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_SD-47053-001_H10p00_MOL"
+		(property "Footprint" "footprints:molex_molex_470531000"
 			(at 156.21 120.65 0)
 			(effects
 				(font
