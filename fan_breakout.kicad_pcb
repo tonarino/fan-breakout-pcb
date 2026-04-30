@@ -1912,22 +1912,9 @@
 		(uuid "d266bf55-8eb0-4d82-ab0f-6ebe0c9578a4")
 	)
 	(gr_text "FAN 3"
-		(at 151.638 73.406 0)
+		(at 151.13 73.406 0)
 		(layer "F.SilkS")
 		(uuid "28bd843e-972f-4a31-bf65-c1f616f195e7")
-		(effects
-			(font
-				(size 0.9 0.8)
-				(thickness 0.16)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "FAN 1"
-		(at 121.92 73.406 0)
-		(layer "F.SilkS")
-		(uuid "76d48003-7793-4171-a3ea-b35a09cdfafc")
 		(effects
 			(font
 				(size 0.9 0.8)
@@ -1940,7 +1927,20 @@
 	(gr_text "FAN 2"
 		(at 136.652 73.406 0)
 		(layer "F.SilkS")
-		(uuid "9a74a8f8-66b3-4113-afcf-3b77cada721e")
+		(uuid "4e00ca7f-c9eb-473c-9c09-2d9e4f0f1ca9")
+		(effects
+			(font
+				(size 0.9 0.8)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "FAN 1"
+		(at 121.92 73.406 0)
+		(layer "F.SilkS")
+		(uuid "664c15f9-ad3e-4de4-a2fe-56fbc26cde16")
 		(effects
 			(font
 				(size 0.9 0.8)
@@ -1963,6 +1963,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "FAN 1"
+		(at 123.698 78.486 180)
+		(layer "B.SilkS")
+		(uuid "9b187349-dfba-4a1a-a71a-1c804b66cf78")
+		(effects
+			(font
+				(size 0.9 0.8)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "GND\n+12V\nFAN 1\nFAN 2\nFAN 3"
 		(at 154.432 58.42 90)
 		(layer "B.SilkS")
@@ -1971,6 +1984,32 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "FAN 3"
+		(at 152.654 78.486 180)
+		(layer "B.SilkS")
+		(uuid "cc79edf6-1597-4861-a246-8de35462d897")
+		(effects
+			(font
+				(size 0.9 0.8)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "FAN 2"
+		(at 138.176 78.486 180)
+		(layer "B.SilkS")
+		(uuid "d6835f02-b0a6-4385-ae4e-1d625c3899cb")
+		(effects
+			(font
+				(size 0.9 0.8)
+				(thickness 0.16)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)
